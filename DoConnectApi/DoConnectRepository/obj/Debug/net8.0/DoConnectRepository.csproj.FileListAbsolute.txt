@@ -1,0 +1,17 @@
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\bin\Debug\net8.0\DoConnectRepository.deps.json
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\bin\Debug\net8.0\DoConnectRepository.runtimeconfig.json
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\bin\Debug\net8.0\DoConnectRepository.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\bin\Debug\net8.0\DoConnectRepository.pdb
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\bin\Debug\net8.0\DoConnectEntity.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\bin\Debug\net8.0\DoConnectEntity.pdb
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.csproj.AssemblyReference.cache
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.AssemblyInfoInputs.cache
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.AssemblyInfo.cs
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.csproj.CoreCompileInputs.cache
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnec.78D1F601.Up2Date
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\refint\DoConnectRepository.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.pdb
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\DoConnectRepository.genruntimeconfig.cache
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectRepository\obj\Debug\net8.0\ref\DoConnectRepository.dll

@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectrepository\\userinfo repositories\\userinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\userinfo repositories\\userinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectrepository\\data\\doconnectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\data\\doconnectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048851CC-2210-423A-B459-29378F64CD97}|DoConnectEntity\\DoConnectEntity.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectentity\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048851CC-2210-423A-B459-29378F64CD97}|DoConnectEntity\\DoConnectEntity.csproj|solutionrelative:doconnectentity\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048851CC-2210-423A-B459-29378F64CD97}|DoConnectEntity\\DoConnectEntity.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectentity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048851CC-2210-423A-B459-29378F64CD97}|DoConnectEntity\\DoConnectEntity.csproj|solutionrelative:doconnectentity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|solutionrelative:doconnectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|solutionrelative:doconnectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectapi\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|solutionrelative:doconnectapi\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectservice\\userinfo services\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\userinfo services\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectservice\\userinfo services\\iuserinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\userinfo services\\iuserinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|solutionrelative:doconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22009FD-C551-4336-8280-508018CC2D67}|DoConnectApi\\DoConnectApi.csproj|solutionrelative:doconnectapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectservice\\product services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\product services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectservice\\doconnectservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\doconnectservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectrepository\\doconnectrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\doconnectrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectservice\\product services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135322AB-5E1C-4B83-B1C5-50ED2DF816E2}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\product services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectrepository\\product repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\product repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectapi\\doconnectrepository\\product repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14A31D6-0725-4C0A-9B00-8A657D3F550B}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\product repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\UserInfo Services\\IUserInfoService.cs",
+              "RelativeDocumentMoniker": "DoConnectService\\UserInfo Services\\IUserInfoService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\UserInfo Services\\IUserInfoService.cs",
+              "RelativeToolTip": "DoConnectService\\UserInfo Services\\IUserInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:24:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\UserInfo Repositories\\UserInfoRepository.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\UserInfo Repositories\\UserInfoRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\UserInfo Repositories\\UserInfoRepository.cs",
+              "RelativeToolTip": "DoConnectRepository\\UserInfo Repositories\\UserInfoRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:32:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "DoConnectApi\\Controllers\\UserInfoController.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "DoConnectApi\\Controllers\\UserInfoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:14:40.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectEntity\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DoConnectEntity\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectEntity\\UserInfo.cs",
+              "RelativeToolTip": "DoConnectEntity\\UserInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:57:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\UserInfo Services\\UserInfoService.cs",
+              "RelativeDocumentMoniker": "DoConnectService\\UserInfo Services\\UserInfoService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\UserInfo Services\\UserInfoService.cs",
+              "RelativeToolTip": "DoConnectService\\UserInfo Services\\UserInfoService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:59:16.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Program.cs",
+              "RelativeDocumentMoniker": "DoConnectApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Program.cs",
+              "RelativeToolTip": "DoConnectApi\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:19:45.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DoConnectApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\appsettings.json",
+              "RelativeToolTip": "DoConnectApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T13:53:04.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\Product Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "DoConnectService\\Product Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\Product Services\\IProductService.cs",
+              "RelativeToolTip": "DoConnectService\\Product Services\\IProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:06:10.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectEntity\\Product.cs",
+              "RelativeDocumentMoniker": "DoConnectEntity\\Product.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectEntity\\Product.cs",
+              "RelativeToolTip": "DoConnectEntity\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:57:49.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoConnectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\Data\\DoConnectDbContext.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\Data\\DoConnectDbContext.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\Data\\DoConnectDbContext.cs",
+              "RelativeToolTip": "DoConnectRepository\\Data\\DoConnectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:13:41.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DoConnectApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DoConnectApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T10:03:03.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "DoConnectApi\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectApi\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "DoConnectApi\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:06:27.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoConnectService.csproj",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\DoConnectService.csproj",
+              "RelativeDocumentMoniker": "DoConnectService\\DoConnectService.csproj",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\DoConnectService.csproj",
+              "RelativeToolTip": "DoConnectService\\DoConnectService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T11:55:09.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoConnectRepository.csproj",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\DoConnectRepository.csproj",
+              "RelativeDocumentMoniker": "DoConnectRepository\\DoConnectRepository.csproj",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\DoConnectRepository.csproj",
+              "RelativeToolTip": "DoConnectRepository\\DoConnectRepository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T10:29:19.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\Product Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\Product Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\Product Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DoConnectRepository\\Product Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:05:17.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\Product Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\Product Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectRepository\\Product Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "DoConnectRepository\\Product Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:05:15.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\Product Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DoConnectService\\Product Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectApi\\DoConnectService\\Product Services\\ProductService.cs",
+              "RelativeToolTip": "DoConnectService\\Product Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:06:11.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

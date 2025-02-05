@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Im5jd6JSq1Wr9TXcO/zxkzwlO0r1jd7s5ZGEr2OZLQk=",
+  "Source": "DoConnectApi",
+  "BasePath": "_content/DoConnectApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

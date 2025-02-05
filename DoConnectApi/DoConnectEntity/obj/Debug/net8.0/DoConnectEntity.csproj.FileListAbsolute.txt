@@ -1,0 +1,11 @@
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\bin\Debug\net8.0\DoConnectEntity.deps.json
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\bin\Debug\net8.0\DoConnectEntity.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\bin\Debug\net8.0\DoConnectEntity.pdb
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\DoConnectEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\DoConnectEntity.AssemblyInfoInputs.cache
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\DoConnectEntity.AssemblyInfo.cs
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\DoConnectEntity.csproj.CoreCompileInputs.cache
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\DoConnectEntity.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\refint\DoConnectEntity.dll
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\DoConnectEntity.pdb
+C:\Users\vnagaraj\source\repos\DoConnectApi\DoConnectEntity\obj\Debug\net8.0\ref\DoConnectEntity.dll
